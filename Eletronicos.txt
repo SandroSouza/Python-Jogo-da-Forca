@@ -1,0 +1,10 @@
+Tablet
+Drone
+Projetor
+Camera
+Console
+Celular
+Smartwatch
+Headset
+Roteador
+Notebook

@@ -1,0 +1,10 @@
+Gabinete 
+Cooler
+Processador
+Ram
+HD
+SSD
+Fonte
+WaterCooler
+Placa-Mae
+
